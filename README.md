@@ -7,6 +7,7 @@
     <td>Başlarken</td>
   </tr>
 </table>
+
 ### Powershell Nedir?
 
 **Powershell**, farklı platformlar arasında çalışabilen bir görev otomasyonu çözümüdür ve komut satırı kabuğu, betik dili ve yapılandırma yönetimi çerçevesini içerir. <a href="https://en.wikipedia.org/wiki/Microsoft_Windows">Windows</a>, <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> ve <a href="https://en.wikipedia.org/wiki/MacOS">macOS</a> gibi işletim sistemlerinde kullanılabilir.
