@@ -13,18 +13,18 @@
     <li>macOS İşletim Sistemi:
       <ul class="list-disc list-inside pl-4">
         <li>Terminal uygulamasını açın.</li>
-        <li><code class="bg-gray-200 dark:bg-dark-800 p-1">pwsh</code> komutunu çalıştırın.</li>
+        <li><code class="bg-gray-200 dark:bg-gray-800 p-1">pwsh</code> komutunu çalıştırın.</li>
       </ul>
     </li>
     <li>Linux İşletim Sistemi:
       <ul class="list-disc list-inside pl-4">
         <li>Terminal uygulamasını açın.</li>
-        <li><code class="bg-gray-200 p-1 dark:bg-dark-800">pwsh</code> komutunu çalıştırın.</li>
+        <li><code class="bg-gray-200 p-1 dark:bg-gray-800">pwsh</code> komutunu çalıştırın.</li>
       </ul>
     </li>
   </ol>
   <p>PowerShell'i başarıyla başlattığınızda, komutları ve betikleri çalıştırabilirsiniz. İşte basit bir örnek:</p>
-  <pre class="bg-gray-200 p-4 dark:bg-dark-800"><code>write-host "Merhaba Dünya"</code></pre>
+  <pre class="bg-gray-200 p-4 dark:bg-gray-800"><code>write-host "Merhaba Dünya"</code></pre>
   <p>Yukarıdaki komut, "Merhaba Dünya" metnini PowerShell penceresine yazdıracaktır. <code>write-host</code> komutu, metni görüntülemek için kullanılır.</p>
   <p>PowerShell, güçlü bir komut tabanına ve geniş bir modül koleksiyonuna sahiptir. Modüller, çeşitli görevleri gerçekleştirmek için ek işlevler sağlar. PowerShell ile <em>dosya işleme</em>, <em>ağ yönetimi</em>, <em>veritabanı erişimi</em> ve daha fazlasını yapabilirsiniz.</p>
   <p>PowerShell, komut satırı arayüzüyle etkileşime girmenin yanı sıra, betikler ve otomasyon görevleri oluşturmak için de kullanılabilir. Karmaşık işlemleri otomatikleştirmek veya tekrar eden görevleri kolaylaştırmak için betikler yazabilirsiniz.</p>
