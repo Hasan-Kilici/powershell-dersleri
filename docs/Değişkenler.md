@@ -1,4 +1,4 @@
-<h1 class="mb-4 text-2xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Powershellde Değişkenler</h1><br>
+<h3 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Powershellde Değişkenler</h3><br>
 <div class="bg-gray-200 dark:bg-gray-800 p-1 rounded-lg">
     <pre><code class="text-blue-500 language-powershell">
 $int = 31
