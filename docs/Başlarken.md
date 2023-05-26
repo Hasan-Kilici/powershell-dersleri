@@ -1,3 +1,5 @@
+<div class="markdown">
+
 ### Başlarken
 PowerShell'e Hoş Geldiniz!
 
@@ -28,3 +30,5 @@ Yukarıdaki komut, "Merhaba Dünya" metnini PowerShell penceresine yazdıracakt�
 PowerShell, güçlü bir komut tabanına ve geniş bir modül koleksiyonuna sahiptir. Modüller, çeşitli görevleri gerçekleştirmek için ek işlevler sağlar. PowerShell ile `dosya işleme`, `ağ yönetimi`, `veritabanı erişimi` ve daha fazlasını yapabilirsiniz.
 
 PowerShell, komut satırı arayüzüyle etkileşime girmenin yanı sıra, betikler ve otomasyon görevleri oluşturmak için de kullanılabilir. Karmaşık işlemleri otomatikleştirmek veya tekrar eden görevleri kolaylaştırmak için betikler yazabilirsiniz.
+
+</div>
