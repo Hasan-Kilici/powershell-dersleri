@@ -40,12 +40,12 @@ PowerShell, çeşitli uygulama ve sistemler için birçok görevin gerçekleşti
 ### Nereden Powershell öğrenebilirim?
 **Uyarı : Kaynakların bir çoğu ingilizce.**
 
-- <a href="https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.3">Microsoftun hazırlamış olduğu dökümasyon</a> `Ben ilk olarak buradan bakmıştım, sizede öneririm`
-- <a href="tutorialspoint.com/powershell/index.htm">Tutorials point Powershell</a> `Bu adamların anlatmadığı dil yok. bi gidip bakmanızı öneririm`
-- <a href="guru99.com/powershell-tutorial.html">Guru99</a> `Burayı fazla incelemedim ama genel olarak baktığımda anlatımı hoş bir kaynak`
-- <a href="javatpoint.com/powershell">Javatpoint</a> `Tutorials Point gibi bu heriflerde, anlatmaya gerek yok.`
-- <a href="https://aktifdizin.com/dersler/powershell/">Aktif Dizin</a> `Vallahi güzel kaynak yalan yok.`
-- <a href="youtube.com/watch?v=qU4dNDo05Ow&list=PLSftSvi1bqa7j0-r5HDLhWhHxzu0l2sY9">Ahmet Sait Duran Powershell dersleri</a> `Ahmet Sait Duran Hocamdan 10 videoluk Powersell dersleri`
+- <a href="https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.3">Microsoftun hazırlamış olduğu dökümasyon</a> `Ben ilk olarak buradan bakmıştım, sizede öneririm [ingilizce]`
+- <a href="tutorialspoint.com/powershell/index.htm">Tutorials point Powershell</a> `Bu adamların anlatmadığı dil yok. bi gidip bakmanızı öneririm [ingilizce]`
+- <a href="guru99.com/powershell-tutorial.html">Guru99</a> `Burayı fazla incelemedim ama genel olarak baktığımda anlatımı hoş bir kaynak [ingilizce]`
+- <a href="javatpoint.com/powershell">Javatpoint</a> `Tutorials Point gibi bu heriflerde, anlatmaya gerek yok. [ingilizce]`
+- <a href="https://aktifdizin.com/dersler/powershell/">Aktif Dizin</a> `Vallahi güzel kaynak yalan yok. [Türkçe]`
+- <a href="youtube.com/watch?v=qU4dNDo05Ow&list=PLSftSvi1bqa7j0-r5HDLhWhHxzu0l2sY9">Ahmet Sait Duran Powershell dersleri</a> `Ahmet Sait Duran Hocamdan 10 videoluk Powersell dersleri [Türkçe]`
 
 </div>
 <div id="baslarken">
