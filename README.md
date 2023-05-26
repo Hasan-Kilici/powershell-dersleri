@@ -1,12 +1,13 @@
 # Powershell Dersleri
 <table>
   <tr>
-    <td>Powershell Nedir?</td>
-    <td>Powershell ile neler yapabiliriz?</td>
-    <td>Nereden powershell öğrenebiliriz?</td>
-    <td>Başlarken</td>
+    <td><a href="#nedir">Powershell Nedir?</a></td>
+    <td><a href="#yapilabilecekler">Powershell ile neler yapabiliriz?</a></td>
+    <td><a href="#kaynaklar">Nereden powershell öğrenebiliriz?</a></td>
+    <td><a href="#baslarken">Başlarken</a></td>
   </tr>
 </table>
+<div id="nedir">
 
 ### Powershell Nedir?
 
@@ -18,6 +19,9 @@ PowerShell, kullanıcıların sistem yapılandırması, dosya yönetimi, ağ yö
 
 Ayrıca PowerShell, güçlü bir betik dili olmasıyla da dikkat çeker. Kullanıcılar, PowerShell betikleri oluşturarak karmaşık işlemleri otomatikleştirebilir, dosyaları işleyebilir ve sistem üzerinde çeşitli görevleri gerçekleştirebilir. Bu, kullanıcıların tekrarlayan görevleri otomatik hale getirmelerine ve iş akışlarını daha verimli hale getirmelerine yardımcı olur.
 
+</div>
+<div id="yapilabilecekler">
+
 ### Powershell İle Neler Yapabiliriz?
 PowerShell, çeşitli uygulama ve sistemler için birçok görevin gerçekleştirilmesine olanak tanır. İşte PowerShell ile yapılabilecek bazı işlerin örnekleri:
 
@@ -26,6 +30,9 @@ PowerShell, çeşitli uygulama ve sistemler için birçok görevin gerçekleşti
 - **Mikro Hizmetler (Microservices)**: `PowerShell, mikro hizmet mimarisi ile ilgili görevleri gerçekleştirmek için kullanılabilir. Mikro hizmetler, karmaşık sistemlerin daha küçük ve bağımsız hizmetlere bölünmesini sağlar. PowerShell, bu hizmetlerin oluşturulması, yönetimi ve etkileşimi için kullanılabilir.`
 
 - **Basit Konsol Uygulamaları**: `PowerShell, komut satırı tabanlı uygulamaların oluşturulmasında da kullanılabilir. Örneğin, veri işleme, dosya yönetimi, sistem yönetimi gibi görevlerin gerçekleştir`
+
+</div>
+<div id="kaynaklar">
 
 ### Nereden Powershell öğrenebilirim?
 **Uyarı : Kaynakların bir çoğu ingilizce.**
@@ -37,4 +44,32 @@ PowerShell, çeşitli uygulama ve sistemler için birçok görevin gerçekleşti
 - <a href="https://aktifdizin.com/dersler/powershell/">Aktif Dizin</a> `Vallahi güzel kaynak yalan yok.`
 - <a href="youtube.com/watch?v=qU4dNDo05Ow&list=PLSftSvi1bqa7j0-r5HDLhWhHxzu0l2sY9">Ahmet Sait Duran Powershell dersleri</a> `Ahmet Sait Duran Hocamdan 10 videoluk Powersell dersleri`
 
+</div>
+<div id="baslarken">
+
 ### Başlarken
+PowerShell'e Hoş Geldiniz!
+
+Bu metin, PowerShell'e yeni başlayan geliştiriciler için bir başlangıç noktası sağlamayı amaçlamaktadır. PowerShell, Microsoft tarafından geliştirilen bir betikleme ve otomasyon dilidir. Güçlü komut satırı yetenekleri ve .NET Framework ile entegrasyonuyla, Windows tabanlı sistemlerin yönetimi ve otomasyonu için ideal bir araçtır.
+
+PowerShell, Windows, macOS ve Linux dahil olmak üzere farklı işletim sistemlerinde kullanılabilir. İşte PowerShell'i başlatmak için basit adımlar:
+
+1. Windows İşletim Sistemi:
+   - Başlat menüsünü açın.
+   - "PowerShell" yazın ve "Windows PowerShell" veya "PowerShell" uygulamasını seçin.
+
+2. macOS İşletim Sistemi:
+   - Terminal uygulamasını açın.
+   - `$ pwsh` komutunu çalıştırın.
+
+3. Linux İşletim Sistemi:
+   - Terminal uygulamasını açın.
+   - `$ pwsh` komutunu çalıştırın.
+
+PowerShell'i başarıyla başlattığınızda, komutları ve betikleri çalıştırabilirsiniz. İşte basit bir örnek:
+
+```ps1
+write-host "Merhaba Dünya"
+```
+
+</div>
