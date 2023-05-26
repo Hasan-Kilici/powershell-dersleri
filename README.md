@@ -1,4 +1,6 @@
 # Powershell Dersleri
+<img src="https://github.com/Hasan-Kilici/powershell-dersleri/assets/105741983/577b6188-9388-4870-8057-5614c8ec7e47" width="100%">
+
 <table>
   <tr>
     <td><a href="#nedir">Powershell Nedir?</a></td>
