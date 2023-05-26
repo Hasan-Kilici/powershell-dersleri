@@ -24,7 +24,13 @@
     </li>
   </ol>
   <p>PowerShell'i başarıyla başlattığınızda, komutları ve betikleri çalıştırabilirsiniz. İşte basit bir örnek:</p>
-  <pre class="bg-gray-200 p-4 dark:bg-gray-800 rounded-lg "><code>write-host "Merhaba Dünya"</code></pre>
+  <div class="bg-gray-200 dark:bg-gray-800 p-1 rounded-lg">
+   <pre>
+   <code class="text-blue-500 language-powershell">
+  write-host "Merhaba Dünya"
+</code>
+</pre>
+  </div>
   <p>Yukarıdaki komut, "Merhaba Dünya" metnini PowerShell penceresine yazdıracaktır. <code>write-host</code> komutu, metni görüntülemek için kullanılır.</p>
   <p>PowerShell, güçlü bir komut tabanına ve geniş bir modül koleksiyonuna sahiptir. Modüller, çeşitli görevleri gerçekleştirmek için ek işlevler sağlar. PowerShell ile <em>dosya işleme</em>, <em>ağ yönetimi</em>, <em>veritabanı erişimi</em> ve daha fazlasını yapabilirsiniz.</p>
   <p>PowerShell, komut satırı arayüzüyle etkileşime girmenin yanı sıra, betikler ve otomasyon görevleri oluşturmak için de kullanılabilir. Karmaşık işlemleri otomatikleştirmek veya tekrar eden görevleri kolaylaştırmak için betikler yazabilirsiniz.</p>
