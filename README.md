@@ -8,6 +8,7 @@
     <td><a href="#kaynaklar">Nereden powershell öğrenebiliriz?</a></td>
     <td><a href="#baslarken">Başlarken</a></td>
     <td><a href="https://hasan-kilici.github.io/powershell-dersleri/">Web sitesinden öğrenmeye başla</a></td>
+    <td><a href="#icerik">İçindekiler</a></td>
   </tr>
 </table>
 <div id="nedir">
