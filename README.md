@@ -81,3 +81,15 @@ PowerShell, güçlü bir komut tabanına ve geniş bir modül koleksiyonuna sahi
 
 PowerShell, komut satırı arayüzüyle etkileşime girmenin yanı sıra, betikler ve otomasyon görevleri oluşturmak için de kullanılabilir. Karmaşık işlemleri otomatikleştirmek veya tekrar eden görevleri kolaylaştırmak için betikler yazabilirsiniz.
 </div>
+
+<div id="icerik">
+
+### İçindekiler
+
+  - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/Ba%C5%9Flarken.md">Başlarken</a>
+  - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/De%C4%9Fi%C5%9Fkenler.md">Değişkenler</a>
+  - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/Input.md">İnput</a>
+  - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/if%20else.md">İf else</a>
+  - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/D%C3%B6ng%C3%BCler.md">Döngüler</a>
+
+</div>
