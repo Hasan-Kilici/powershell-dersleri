@@ -9,6 +9,7 @@
 <div class="max-w-full overflow-auto bg-gray-200 dark:bg-gray-800 p-1 rounded-lg">
 <pre>
 <code class="text-blue-500 language-powershell">
+
 if (koşul) {
     # Koşul doğru ise çalıştırılacak kod bloğu
 } else {
@@ -17,7 +18,7 @@ if (koşul) {
 
 </pre>
 </code>
-</div>
+</div><br>
 
 <p>Koşul, bir mantıksal ifade veya karşılaştırma operatörleri kullanılarak belirtilir. Örneğin, eşitlik kontrolü için <code class="bg-gray-200 dark:bg-gray-800 p-1 rounded-lg">-eq</code> operatörünü kullanabiliriz.</p>
 <p>İşte bir örnek:</p>
@@ -32,9 +33,10 @@ if ($deger -eq 5) {
     Write-Host "Değer 5'e eşit değildir."
 }
 
+
 </pre>
 </code>
-</div>
+</div><br>
 
 If-Else yapısının genel sözdizimi aşağıdaki gibi olacaktır:
 <h3 class="text-xl font-bold">Operatörler</h3>
