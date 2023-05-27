@@ -14,6 +14,7 @@ if (koşul) {
 } else {
     # Koşul yanlış ise çalıştırılacak kod bloğu
 }
+
 </pre>
 </code>
 </div>
@@ -30,6 +31,7 @@ if ($deger -eq 5) {
 } else {
     Write-Host "Değer 5'e eşit değildir."
 }
+
 </pre>
 </code>
 </div>
