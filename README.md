@@ -92,5 +92,6 @@ PowerShell, komut satırı arayüzüyle etkileşime girmenin yanı sıra, betikl
   - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/Input.md">İnput</a>
   - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/if%20else.md">İf else</a>
   - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/D%C3%B6ng%C3%BCler.md">Döngüler</a>
+  - <a href="https://github.com/Hasan-Kilici/powershell-dersleri/blob/main/docs/HTTP%20Request.md">HTTP Request</a>
 
 </div>
