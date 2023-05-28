@@ -2,7 +2,7 @@
 <p>Invoke-WebRequest, web sayfalarından veri almak ve veri göndermek için kullanılan bir PowerShell komutudur.</p>
 <p>Bu komut, PowerShell içinde web istekleri yapmamıza olanak tanır ve böylece istediğimiz web sayfalarından bilgi alabiliriz.</p>
 
-<img src="https://github.com/Hasan-Kilici/powershell-dersleri/assets/105741983/a12e5e3f-3533-49c8-9bb9-89cb2c595fcf" class="h-auto max-w-xl rounded-lg shadow-xl dark:shadow-gray-800"><
+<img src="https://github.com/Hasan-Kilici/powershell-dersleri/assets/105741983/a12e5e3f-3533-49c8-9bb9-89cb2c595fcf" class="h-auto max-w-100 rounded-lg shadow-xl dark:shadow-gray-800">
 
 Invoke-WebRequest komutu, belirtilen URI'ye (Uniform Resource Identifier) bir web isteği göndermek için kullanılır. 
 Google'daki arama sonuçlarını alabileceğimiz bir kod örneği ile başlayalım
